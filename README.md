@@ -1,22 +1,18 @@
 # OIBSIP
-new repo
-OASIS INFOBYTE Java Guessing Game
+OASIS INFOBYTE Java Guessing Game:
 A fun and interactive number guessing game built with Java as part of the OASIS INFOBYTE internship program.
-
-Getting Started
+GETTING STARTED:
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-Prerequisites
+PREREQUISITES:
 What you need to run the code:
-
-Java Development Kit (JDK)
+Java Development Kit (JDK)E
 Java Integrated Development Environment (IDE) such as Eclipse or IntelliJ
-Installing
+INSTALLING:
 Clone the repository to your local machine using the following command: git clone  https://github.com/Divyadharshini1924/OIBSIP.git
-
 Open the project in your IDE and run the Main class.
-
-Build Up With
+BUILD UP WITH:
 Java
-Acknowledgments
+ACKNOWLEDGEMENT:
 OASIS INFOBYTE internship program for providing the opportunity to develop this project.
+
+
