@@ -13,6 +13,6 @@ Open the project in your IDE and run the Main class.
 BUILD UP WITH:
 Java
 ACKNOWLEDGEMENT:
-OASIS INFOBYTE internship program for providing the opportunity to develop this project.
+OASIS INFOBYTE internship program for providing the opportunity to develop this project.https://github.com/amitsingh1127/OIBGRIP#readme:~:text=OASIS-,INFOBYTE,-Java%20Guessing%20Game
 
 
